@@ -22,7 +22,7 @@ a{
 }
 .navBar{
   width: 100%;
-  height: 6vh !important;
+  height: 8vh !important;
   background-color:grey;
   padding: 0 15px;
   display: grid;
@@ -134,7 +134,7 @@ padding: 5px 0;
 }
 .opt1{
   width: 100%;
-  font-size: 4vh;
+  font-size: 3vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -500,12 +500,13 @@ overflow: hidden;
 
 .sideBar{
   position:fixed;
-  top:91%;
+  /* top:91%; */
+  bottom: 0%;
   width: 100%;
   background-color:white;
   display: flex;
   justify-content: space-around;
-  font-size:1.5rem ;
+  font-size:1rem ;
   z-index: 5000;
   /* border-top: 1px solid grey; */
   box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;

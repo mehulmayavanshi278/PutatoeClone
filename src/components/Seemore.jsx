@@ -63,7 +63,7 @@ function Seemore() {
     </div>
     <div className='opt1'>
     <i class="fa-solid fa-train"></i>
-    <p>Metro card</p>
+    <p>Metro</p>
     <p>Recharge</p>
     </div>
 

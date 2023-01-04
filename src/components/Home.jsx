@@ -52,19 +52,19 @@ function Home() {
      <div className='sideBar py-2'>
       <div className='text-center'>
       <i class="fa-solid fa-house-user"></i>
-      <div className='h5'>Home</div>
+      <div className='h6'>Home</div>
       </div>
      <div className='text-center'>
      <i class="fa-solid fa-user"></i>
-     <div className='h5'>Profile</div>
+     <div className='h6'>Profile</div>
      </div>
      <div className='text-center'>
      <i class="fa-solid fa-list"></i>
-     <div className='h5'>Follow List</div>
+     <div className='h6'>Follow List</div>
      </div>
     <div className='text-center'>
     <i class="fa-solid fa-comment-medical"></i>
-    <div className='h5'>Chat</div>
+    <div className='h6'>Chat</div>
     </div>
     
       </div>

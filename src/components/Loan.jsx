@@ -66,7 +66,7 @@ function Loan() {
                 <div className='h4 m-0 p-0'>Annual Income*</div>
                 <input className="w-100 ps-2 py-2 mt-1"type="number"placeholder=" ₹ Enter Your Annual Income"/>
             </div>
-             ss
+             
             <div className='name px-2 bg-white mt-4'>
                 <div className='h4 m-0 p-0'>Loan Amount*</div>
                 <input className="w-100 ps-2 py-2 mt-1"type="number"placeholder=" minimum Loan Amount is 10000₹"/>
